@@ -17,4 +17,5 @@ For support with Tuya-Convert please use their [GitHub Issues](https://github.co
 | Resolution description |     |
 | RFC Url |     |
 | Unit tests |     |
+| local testing details |     |
 
